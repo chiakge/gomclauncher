@@ -11,6 +11,7 @@ import (
 	"runtime"
 	"strings"
 
+	"github.com/silbinarywolf/preferdiscretegpu"
 	"github.com/xmdhs/gomclauncher/auth"
 	"github.com/xmdhs/gomclauncher/download"
 	aflag "github.com/xmdhs/gomclauncher/flag"
